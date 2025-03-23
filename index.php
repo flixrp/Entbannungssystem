@@ -243,7 +243,7 @@ Route::add("/", function () {
         <h1 class="text-center">ForgeRP - Schmiede dein RP!</h1>
         <a href="/" class="btn btn-secondary">🏠 Startseite</a>
         <a href="/regeln" class="btn btn-primary">📜 Regelwerk</a>
-        <a target="_blank" href="https://discord.com/channels/665677622604201993/805754611209076807/805755097875087370" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
+        <a target="_blank" href="#" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
         <a href="/entbannungsantrag.php" class="btn btn-primary">🔨 Entbannungsanträge</a>
         <a href="/clearcache" class="btn btn-primary">🗑 FiveM Cache leeren</a>
     </div>
@@ -254,15 +254,15 @@ Route::add("/", function () {
     <div class="float-left">
         GTA V Roleplay Server<br><br>
         Forgerp.net - Schmiede dein RP!<br>
-        Direktverbindung <b>forgerp.net</b> oder über die <a target="_blank" href="https://servers.fivem.net/servers/detail/gxdxyo">Serverliste <i class="fas fa-external-link-alt"></i></a><br><br>
-        Discord: <a href="https://discord.forgerp.net">https://discord.gg/d5BugGs</a><br><br>
+        Direktverbindung <b>forgerp.net</b> oder über die <a target="_blank" href="#">Serverliste <i class="fas fa-external-link-alt"></i></a><br><br>
+        Discord: <a href="https://discord.forgerp.net">https://discord.gg/lorem</a><br><br>
 
-        <a style="background-color:#7289DA "target="_blank" href="https://discord.gg/d5BugGs" class="btn btn-primary">Discord beitreten <i class="fas fa-external-link-alt"></i></a><br>
+        <a style="background-color:#7289DA "target="_blank" href="https://discord.gg/lorem" class="btn btn-primary">Discord beitreten <i class="fas fa-external-link-alt"></i></a><br>
         <br><br>
     </div>
     <div class="float-right">
-        <a style="background-color:#7289DA "target="_blank" href="https://discord.gg/d5BugGs" class="btn btn-block btn-primary">Discord beitreten <i class="fas fa-external-link-alt"></i></a><br>
-        <iframe src="https://discord.com/widget?id=665677622604201993&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        <a style="background-color:#7289DA "target="_blank" href="https://discord.gg/lorem" class="btn btn-block btn-primary">Discord beitreten <i class="fas fa-external-link-alt"></i></a><br>
+        <!-- removed code -->
     </div>
 </div>
 
@@ -320,7 +320,7 @@ Route::add("/regeln", function () {
         <h1 class="text-center">ForgeRP - Schmiede dein RP!</h1>
         <a href="/" class="btn btn-primary">🏠 Startseite</a>
         <a href="/regeln" class="btn btn-secondary">📜 Regelwerk</a>
-        <a target="_blank" href="https://discord.com/channels/665677622604201993/805754611209076807/805755097875087370" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
+        <a target="_blank" href="#" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
         <a href="/entbannungsantrag.php" class="btn btn-primary">🔨 Entbannungsanträge</a>
         <a href="/clearcache" class="btn btn-primary">🗑 FiveM Cache leeren</a>
     </div>
@@ -387,7 +387,7 @@ Route::add("/clearcache", function () {
         <h1 class="text-center">ForgeRP - Schmiede dein RP!</h1>
         <a href="/" class="btn btn-primary">🏠 Startseite</a>
         <a href="/regeln" class="btn btn-primary">📜 Regelwerk</a>
-        <a target="_blank" href="https://discord.com/channels/665677622604201993/805754611209076807/805755097875087370" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
+        <a target="_blank" href="#" class="btn btn-primary">🕴 Unser Team <i class="fas fa-external-link-alt"></i></a>
         <a href="/entbannungsantrag.php" class="btn btn-primary">🔨 Entbannungsanträge</a>
         <a href="/clearcache" class="btn btn-secondary">🗑 FiveM Cache leeren</a>
     </div>

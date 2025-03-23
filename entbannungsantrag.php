@@ -44,7 +44,7 @@ Session::create();
         <h2>ForgeRP Entbannungsantrag</h2>
             <p>Um einen Entbannungsantrag zu stellen musst du auf unserem <a target="_blank" href="https://discord.forgerp.net">Discord</a> sein!<br><br>
 
-            Discord: <a target="_blank" href="https://discord.com/invite/d5BugGs">https://discord.com/invite/d5BugGs</a><br><br>
+            Discord: <a target="_blank" href="#">discord invite</a><br><br>
 
             Führe den Befehl '<kbd style="color: gray;">/entbannungsantrag</kbd>' aus. Du bekommst dann vom Bot einen Link, um deinen Entbannungsantrag zu stellen.<br><br>
 
