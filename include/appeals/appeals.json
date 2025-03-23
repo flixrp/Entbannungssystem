@@ -1,0 +1,30 @@
+[
+    {
+        "banTime": 1644706800,
+        "banExpire": 10413788400,
+        "banner": "Gehart",
+        "reason": "Test reason",
+        "reasonDescription": "Lorem ipsum",
+        "whyUnban": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "discord": 987355183677833308,
+        "timestamp": 1664190647,
+        "id": 1,
+        "answer": "\u274c &ast;&ast;ABGELEHNT&ast;&ast;",
+        "txAdminId": "CCCC-FFFF",
+        "answerBy": 230948598347534985,
+        "answerAt": 1664194931
+    },
+    {
+        "banTime": 1738710000,
+        "banExpire": 1739919600,
+        "banner": "Flo",
+        "reason": "Lorem ipsum",
+        "reasonDescription": "ich wollte mit ein flugzeug in w\u00fcrfelpark rein fliegen",
+        "whyUnban": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+        "discord": 2934872398746234764,
+        "timestamp": 1738830088,
+        "id": 2,
+        "answer": false,
+        "txAdminId": "TTTT-AAAA"
+    }
+]

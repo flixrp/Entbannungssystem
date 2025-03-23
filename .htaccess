@@ -1,0 +1,30 @@
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>
+
+<IfModule mod_negotiation.c>
+    Options -MultiViews
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header set X-Frame-Options "sameorigin"
+    Header set Permissions-Policy ""
+    Header set Strict-Transport-Security "max-age=31536000"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set Referrer-Policy "origin"
+</IfModule>
+
+ServerSignature Off
+
+<LimitExcept GET POST PUT DELETE>
+	Deny from All
+</LimitExcept>
+
+<IfModule mod_rewrite.c>
+    DirectoryIndex index.php
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.+)$ index.php [QSA,L]
+</IfModule>

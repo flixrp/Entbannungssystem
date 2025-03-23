@@ -1,0 +1,10 @@
+[
+    {
+        "username": "Test",
+        "password": "Password hash",
+        "discord": 127361286312631233,
+        "permission": 4,
+        "id": 1,
+        "login-token": ""
+    }
+]

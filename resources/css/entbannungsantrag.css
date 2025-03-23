@@ -1,0 +1,24 @@
+#uf_slider_elms {
+    display: flex;
+}
+
+#uf_slider_elms input {
+    width: 50%;
+    transition: 0.3s width;
+}
+
+#uf_txadmin_id, #uf_captcha {
+    text-transform: uppercase;
+}
+
+#uf_captcha_img {
+    border-left: 60px solid #fff;
+    border-right: 60px solid #fff;
+    margin-bottom: 0 !important;
+}
+
+@media only screen and (max-width: 600px) {
+    #uf_captcha_img {
+        border: none;
+    }
+}
