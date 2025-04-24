@@ -1,6 +1,6 @@
 # FlixRP Entbannungssystem
 
-Webinterface zur Verwaltung von Entbindungsgesuchen inkl. Discord-Bot zur Generierung von Einladungs-URLs.
+Webinterface zur Verwaltung von Entbannungsanträgen inkl. Discord-Bot zur Generierung von Einladungs-URLs.
 Programmiert mit dem MVC-Entwurfsmuster in PHP. Der Discord-Bot ist in Python geschrieben. Gespeichert werden die Entbannungsanträge in einer JSON-Datei.
 
 Projekt wird nicht mehr verwendet und ist inzwischen abgelöst von [Cordactyl](https://cordactyl.com).
